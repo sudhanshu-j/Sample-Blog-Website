@@ -184,7 +184,7 @@ You can open them by either double-clicking on the HTML files or by right-clicki
 
 You can view the live demo of this project by visiting the following link:
 
-[Live Demo](https://your-demo-link.com)
+[Live Demo](https://techtrends-today.netlify.app/)
 
 ---
 
