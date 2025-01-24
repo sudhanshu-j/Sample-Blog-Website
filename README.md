@@ -81,7 +81,7 @@ Ensure you have a modern browser (such as Chrome, Firefox, or Edge) to open and 
 1. **Clone the repository**:
    
    ```bash
-   git clone https://github.com/your-username/sample-blog-login-webpage.git
+   git clone https://github.com/sudhanshu-j/sample-blog-login-webpage.git
    ```
 
 2. **Navigate to the project directory**:
